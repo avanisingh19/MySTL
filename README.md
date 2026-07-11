@@ -2,7 +2,6 @@
 
 MySTL is a modern C++20 library that implements commonly used Standard Template Library (STL) components from scratch. The project is designed to explore the internal working of STL containers, algorithms, iterators, function objects, and memory management while following modern C++ programming practices.
 
-## Features
 
 ### Containers
 
